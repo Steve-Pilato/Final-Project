@@ -13,3 +13,5 @@ Model Building and Evaluation:
 1)	Python
 Note that you can start at this step if you desire since the dataset has already been processed. You will need the Model Building.ipynb file for this section. This file requires three paths to entered. The first for the Kaggle dataset (sentiment_analysis_for_financial_news.csv), the second for the document term-frequency matrix with stop words (document_frequency_matrix.csv), and lastly for the document term-frequency matrix without stop words (document_frequency_matrix_no_stop.csv). This file performs all the model building and evaluation. 
 
+Data source - https://www.kaggle.com/ankurzing/sentiment-analysis-for-financial-news
+
